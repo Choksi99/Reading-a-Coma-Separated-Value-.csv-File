@@ -1,0 +1,14 @@
+C:\Users\vraje\source\repos\Lab 8B\bin\Debug\Lab 8B.exe.config
+C:\Users\vraje\source\repos\Lab 8B\bin\Debug\Lab 8B.exe
+C:\Users\vraje\source\repos\Lab 8B\bin\Debug\Lab 8B.pdb
+C:\Users\vraje\source\repos\Lab 8B\obj\Debug\Lab 8B.csprojAssemblyReference.cache
+C:\Users\vraje\source\repos\Lab 8B\obj\Debug\Lab 8B.csproj.CoreCompileInputs.cache
+C:\Users\vraje\source\repos\Lab 8B\obj\Debug\Lab 8B.exe
+C:\Users\vraje\source\repos\Lab 8B\obj\Debug\Lab 8B.pdb
+B:\College\Program\LAB WORK\Lab 8b\Lab 8B\bin\Debug\Lab 8B.exe.config
+B:\College\Program\LAB WORK\Lab 8b\Lab 8B\bin\Debug\Lab 8B.exe
+B:\College\Program\LAB WORK\Lab 8b\Lab 8B\bin\Debug\Lab 8B.pdb
+B:\College\Program\LAB WORK\Lab 8b\Lab 8B\obj\Debug\Lab 8B.csprojAssemblyReference.cache
+B:\College\Program\LAB WORK\Lab 8b\Lab 8B\obj\Debug\Lab 8B.csproj.CoreCompileInputs.cache
+B:\College\Program\LAB WORK\Lab 8b\Lab 8B\obj\Debug\Lab 8B.exe
+B:\College\Program\LAB WORK\Lab 8b\Lab 8B\obj\Debug\Lab 8B.pdb
